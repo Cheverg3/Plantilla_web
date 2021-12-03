@@ -1,0 +1,28 @@
+* {
+	color: #D1E2AF ;
+	/*font-family: 'Nanum Gothic', sans-serif;*/
+	font-family: 'Libre Baskerville', serif;
+	font-weight: 100;
+	background-color: #587122
+
+}
+
+h1 {
+	background-color: #566D8C;
+	text-align: center;
+	display: inline-block;
+	border-radius: 0.5em;
+	padding: 1em;
+	/* border: 0.5em solid #6C2748; */
+	box-shadow: 0.1em 0.2em 0.2em 0 #000;
+	text-shadow: 0.05em 0.1em 0.1em #000;
+}
+
+h2 {
+	background-color: #6C2748;
+	text-align: center 
+}
+
+h3 {
+	background-color: #8DB22C
+}
